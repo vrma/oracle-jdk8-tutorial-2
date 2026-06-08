@@ -134,10 +134,12 @@ public class App {
 		 * en la siguiente iteracion,
 		 * 
 		 * Si el valor encontrado no es par, elevar al cuadrado el numero y almacenarlo
-		 * en una nueva matriz de numeros enteros, es decir, una matriz de numeros enteros al cuadrado.
+		 * en una nueva matriz de numeros enteros, es decir, una matriz de numeros 
+		 * enteros al cuadrado.
 		 * 
 		 * Mostrar el array resultante al final
 		 */
+		
 		// Primero: Recorrer la matriz con dos sentencias for mejoradas
 		
 		System.out.println("-----Ejercicio con sentencia continue-----");
